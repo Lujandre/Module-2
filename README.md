@@ -12,3 +12,8 @@ My classes *this* semester:
 5. INFOTC 3660
 6. PHYSCS 2200
 
+>GHOSTS OF OUR PAST BELOW
+
+<https://github.com/Lujandre/Module-2/blob/master/TheOtherFile.md>
+
+---
